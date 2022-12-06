@@ -25,8 +25,8 @@ Convert the age column to a numerical value by mapping the age range strings to 
 Create new features by combining existing columns. For example, we create the health_index feature by summing the number_emergency, number_inpatient, and number_outpatient columns.
 Use the describe() method to generate summary statistics for the preprocessed data.
 Modeling
-Once the data has been preprocessed, we can begin applying machine learning algorithms to it. In this project, we use the gradient boosting algorithm to train a model on the preprocessed data. The model can then be used to make predictions on new data.
-[00:04]
+Once the data has been preprocessed, we can begin applying machine learning algorithms to it. In this project, we used several algorithm and select the gradient boosting algorithm to train a model on the preprocessed data because he had the best accuracy. The model can then be used to make predictions on new data.
+
 Results
 The results of the analysis can be found in the Jupyter notebook included in this project. The notebook includes detailed explanations and visualizations of the data preprocessing steps, the modeling process, and the results of the analysis.
 
