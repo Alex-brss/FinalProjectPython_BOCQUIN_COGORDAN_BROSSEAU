@@ -32,7 +32,7 @@ Once the data has been preprocessed, we can begin applying machine learning algo
 The results of the analysis and the Flask API can be found in the Jupyter notebook and Python script included in this project. The notebook includes detailed explanations and visualizations of the data preprocessing steps, the modeling process, and the results of the analysis. The Flask API allows users to easily interact with the trained model and make predictions on new data.
 
 ## Conclusion
-This project demonstrates the potential of data preprocessing and machine learning techniques to analyze medical data and gain insights into factors related to readmission and other outcomes of patients with diabetes. The techniques used in this project can be applied to other medical datasets to gain a better understanding of different diseases and their effects on patients.
+This project demonstrates the potential of data preprocessing and machine learning techniques to analyze medical data and gain insights into factors related to readmission and other outcomes of patients with diabetes. The Flask API provides an easy-to-use interface for making predictions with the trained model. The techniques used in this project can be applied to other medical datasets to gain a better understanding of different diseases and their effects on patients.
 
 
 
